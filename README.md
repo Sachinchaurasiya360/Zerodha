@@ -48,7 +48,10 @@ The web interface allows you to:
 
 - View attendance by date
 - See a list of all people who were present on a specific day
-- Export attendance data to Excel format for reporting
+- View comprehensive statistics (total records, total days, registered people)
+- Export complete attendance report to Excel (all dates with daily summary)
+- Export specific date attendance to Excel
+- Two-sheet Excel export with detailed records and summary data
 
 ## Contributing
 
